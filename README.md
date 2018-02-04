@@ -10,7 +10,7 @@ Submitted login credentials are encryption with [SHA3-512](https://github.com/em
 
 1) Clone the repository:
 ```
-git clone moezchr@vue-filter-cms
+git clone git@github.com:moezChr/vue-filter-cms.git
 ```
 2) Change directory into the repository.
 ```
