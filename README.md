@@ -12,7 +12,7 @@ Submitted login credentials are encryption with [SHA3-512](https://github.com/em
 ```
 git clone moezchr@vue-filter-cms
 ```
-2) Change directotory into the repository.
+2) Change directory into the repository.
 ```
 cd vue-filter-cms
 ```
@@ -36,14 +36,14 @@ yarn dev
 ```
 
 ## Features
-- Simple front end with the filter options.
+- Simple frontend with the filter options and resulting output of the amount filtered of entries
 - Login with hashed credentials
-- Backend with all kind of content management options
+- Backend with the following content management options:
 	- Adding, deleting and editing of entries.
-	- Adding and deleting of filters
+	- Adding and deleting of filters.
 
 ## Suggestions or issues
 Feel free to leave suggestions or to point out issues.
 
 ## Licence
-It's customizable and of course open to use for private and commercial use under the [MIT](LICENSE) license.
+It's customizable and open to use for private and commercial use under the [MIT](LICENSE) license.
