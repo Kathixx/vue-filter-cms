@@ -36,7 +36,7 @@ yarn dev
 ```
 
 ## Features
-- Simple frontend with the filter options and resulting output of the amount filtered of entries
+- Simple frontend with filters and the amount of resulting entries.
 - Login with hashed credentials
 - Backend with the following content management options:
 	- Adding, deleting and editing of entries.
